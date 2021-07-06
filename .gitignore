@@ -1,0 +1,13 @@
+*.class
+*.log
+
+.bloop/
+.bsp/
+.metals/
+
+target/
+project/target/
+project/project/
+project/.bloop/
+
+src/main/scala/Main.scala
